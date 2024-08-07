@@ -16,3 +16,4 @@ The project includes the following components:
 
 - **Deep Learning Models**: Implementing LSTM and BERT models for sentiment analysis on text data and evaluating their accuracy.
 
+"." 
